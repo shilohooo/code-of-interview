@@ -1,2 +1,2 @@
 # code-of-interview
-Prepare for the interview
+Prepare for the interview:)
